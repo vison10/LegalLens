@@ -91,8 +91,8 @@ LegalLens-India/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd LegalLens-India
+git clone https://github.com/vison10/LegalLens.git
+cd LegalLens
 ```
 
 ### 2. Install dependencies
